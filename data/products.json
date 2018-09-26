@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "id":1,
+      "name": "alfajor",
+      "price": 20.50
+    },
+    {
+      "id": 2,
+      "name": "coca",
+      "price": 89
+    },
+    {
+      "id": 3,
+      "name": "alfajor",
+      "price": 82
+    }
+  ]
+}
